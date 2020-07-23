@@ -1,5 +1,6 @@
 # Aria2-Trackers
 ## 自动获取tracker文件并转换为Aria2可用格式
+## 原项目已经不能自动获取了。
 国外：https://tk.sleele.com
 
 国内：https://sleele.gitee.io/aria2-trackers/
